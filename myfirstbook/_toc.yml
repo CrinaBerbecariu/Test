@@ -5,3 +5,4 @@ format: jb-book
 root: intro
 chapters:
 - file: firstnote.ipynb
+- file: markdown_file.md
