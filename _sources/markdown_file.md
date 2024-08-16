@@ -33,3 +33,11 @@ print(2+3)
 
 ```
 
+
+## Figures
+
+```{figure} ./logo.png
+:height: 150px
+:name: examplefigure
+```
+
