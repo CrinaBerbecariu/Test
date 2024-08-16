@@ -27,7 +27,8 @@ This is a note
 
 Testing code
 
-```{code-cell}
+```{code-cell} ipython3
+:tags: [remove-cell]
 print(2+3)
 
 ```
