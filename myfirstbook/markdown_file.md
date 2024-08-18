@@ -25,10 +25,10 @@ This is a note
 ```
 
 
-Testing code
+##  Testing code
 
 ```{code-cell} ipython3
-:tags: [remove-cell]
+:tags: [hide-input]
 print(2+3)
 
 ```
