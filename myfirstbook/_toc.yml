@@ -5,17 +5,17 @@ format: jb-book
 root: intro
 
 parts:
-  - caption: Introduction
+- caption: Introduction
   numbered: True
   chapters:
   - file: firstnote.ipynb
   - file: markdown_file.md
 
 parts:
-  - caption: Lectures
+- caption: Lectures
   numbered: True
   chapters:
-  - file: Content/lecture1.md
+  - file: Content/Lecture1.md
   sections:
   - file: Content/objectives1.md
   - file: Content/content1.md
