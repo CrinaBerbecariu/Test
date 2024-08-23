@@ -15,6 +15,6 @@ parts:
 - caption: Lectures
   chapters:
   - file: Content/Lecture1.md
-  sections:
-  - file: Content/objectives1.md
-  - file: Content/content1.md
+    sections:
+    - file: Content/objectives1.md
+    - file: Content/content1.md
