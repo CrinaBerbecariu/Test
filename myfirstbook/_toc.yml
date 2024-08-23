@@ -11,9 +11,8 @@ parts:
   - file: firstnote.ipynb
   - file: markdown_file.md
 
-parts:
+
 - caption: Lectures
-  numbered: True
   chapters:
   - file: Content/Lecture1.md
   sections:
