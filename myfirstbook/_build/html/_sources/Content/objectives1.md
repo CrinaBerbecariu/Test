@@ -1,4 +1,10 @@
 # Objectives and definitions
 
-$$ \Rm=\mat{\cos\ph}{\sin\ph}{0}{-\sin\ph}{\cos\ph}{0}{0}{0}{1} $$
+$$ R_z =
+\begin{pmatrix}
+    \cos \phi & -\sin \phi & 0 \\
+    \sin \phi & \cos \phi & 0 \\
+    0 & 0 & 1 
+\end{pmatrix}
+$$
 
