@@ -8,7 +8,6 @@ parts:
 - caption: Jupyter Book 
   chapters:
   - file: markdown.md
-  - file: markdown-notebooks.md
 
 
 - caption: Introduction
